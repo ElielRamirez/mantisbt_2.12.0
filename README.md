@@ -1,7 +1,9 @@
 # mantisbt_2.12.0
+## Autor
+```
 Shivam Kumar Rai
-How to install Mantisbt Bugtracking Tool | Email configuration in XAMPP server | Shivam Kumar Rai
-https://www.youtube.com/watch?v=im29v-dBQU8
+```
+[How to install Mantisbt Bugtracking Tool | Email configuration in XAMPP server | Shivam Kumar Rai](https://www.youtube.com/watch?v=im29v-dBQU8)
 
 How to install MantisBt bug tracking tool and email-configuration setup?
 Ans:
